@@ -1,0 +1,10 @@
+opencv-python>=4.0.0
+pyserial>=3.0.0
+Pillow>=8.0.0
+mss>=6.0.0
+numpy>=1.0.0
+psutil>=5.0.0
+screeninfo>=0.6.0
+pynput>=1.8.1
+inputs>=0.5
+sounddevice>=0.5.1
